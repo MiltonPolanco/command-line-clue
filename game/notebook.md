@@ -1,17 +1,19 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Shopkeeper
+- [x] The Shopkeeper
 - [ ] The Carpenter
-- [ ] The Baker
+- [x] The Baker
 
 ## Weapons
 - [ ] Steel Ruler
-- [ ] Brass Candlestick
+- [x] Brass Candlestick
 - [ ] Brass Bell
 
 ## Notes
 *Use this space to record your findings and deductions...*
 I was in the kitchen of the school and seems like there is where the crime happened.
+The baker was in the shops with the brass candlestick.
+The shoppkeeper was in the houses.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
