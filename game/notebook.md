@@ -2,8 +2,8 @@
 
 ## Suspects
 - [x] The Shopkeeper
-- [ ] The Carpenter
-- [x] The Baker
+- [x] The Carpenter
+- [] The Baker
 
 ## Weapons
 - [ ] Steel Ruler
